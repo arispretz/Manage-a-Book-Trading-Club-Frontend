@@ -3,7 +3,6 @@
 
 # build files
 /build
-/public
 
 # local files
 .env.local
